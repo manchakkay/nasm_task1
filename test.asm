@@ -1,7 +1,7 @@
 ; 18 446 744 073 709 551 616    64 bit (8 Byte)   R#X      QWORD   DQ      RESQ
 ; 4 294 967 295                 32 bit (4 Byte)   E#X      DWORD   DD      RESD
 ; 65536                         16 bit (2 Byte)   #X       WORD    DW      RESW
-; 256                           8 bit  (1 Byte)   #H       BYTE    DB      RESW
+; 256                           8 bit  (1 Byte)   #H       BYTE    DB      RESB
 ; 256                           8 bit  (1 Byte)   #L       BYTE    DB      RESB
     
 ;push -> 4 3 2 1 -> pop
